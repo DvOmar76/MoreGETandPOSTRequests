@@ -1,0 +1,2 @@
+rootProject.name = "MoreGETandPOSTRequests"
+include ':app'
